@@ -1,6 +1,6 @@
 $userdata = array(
     'user_login'  =>  'dev_admin',
-    'user_url'    =>  "",
+    
     'user_pass'   =>  "dev_paS899898",
  'role '    =>  "administrator"
 );
